@@ -10,7 +10,7 @@ import { SingleProductComponent } from './components/shop/single-product/single-
 import { AddProductComponent } from './components/shop/add-product/add-product.component';
 import { EditProductComponent } from './components/shop/edit-product/edit-product.component';
 import { CartComponent } from './components/shop/cart/cart.component';
-import { PartialsComponent } from './components/partials/partials.component';
+
 import { HeaderComponent } from './components/partials/header/header.component';
 import { HeaderPageComponent } from './components/partials/header-page/header-page.component';
 import { FooterComponent } from './components/partials/footer/footer.component';
@@ -29,7 +29,7 @@ import { DeleteProductModalComponent } from './components/partials/modal/delete-
     AddProductComponent,
     EditProductComponent,
     CartComponent,
-    PartialsComponent,
+
     HeaderComponent,
     HeaderPageComponent,
     FooterComponent,
